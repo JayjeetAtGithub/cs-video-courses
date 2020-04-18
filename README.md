@@ -14,7 +14,6 @@ Table of Contents
 - [Systems Programming](#systems-programming)
 - [Database Systems](#database-systems)
 - [Software Engineering](#software-engineering)
-- [Web Programming and Internet Technologies](#web-programming-and-internet-technologies)
 - [Computer Networks](#computer-networks)
 - [Theoretical CS and Programming Languages](#theoretical-cs-and-programming-languages)
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
