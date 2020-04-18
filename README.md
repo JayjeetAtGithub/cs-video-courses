@@ -15,7 +15,6 @@ Table of Contents
 - [Database Systems](#database-systems)
 - [Software Engineering](#software-engineering)
 - [Computer Networks](#computer-networks)
-- [Theoretical CS and Programming Languages](#theoretical-cs-and-programming-languages)
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
 - [Security](#security)
 - [Misc](#misc)
