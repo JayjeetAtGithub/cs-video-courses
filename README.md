@@ -10,25 +10,15 @@ Table of Contents
 ------------------------------
 
 
-- [Introduction to Computer Science](#introduction-to-computer-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Systems Programming](#systems-programming)
 - [Database Systems](#database-systems)
 - [Software Engineering](#software-engineering)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Machine Learning](#machine-learning)
 - [Web Programming and Internet Technologies](#web-programming-and-internet-technologies)
 - [Computer Networks](#computer-networks)
-- [Math for Computer Scientist](#math-for-computer-scientist)
 - [Theoretical CS and Programming Languages](#theoretical-cs-and-programming-languages)
-- [Embedded Systems](#embedded-systems)
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
 - [Security](#security)
-- [Computer Graphics](#computer-graphics)
-- [Image Processing and Computer Vision](#image-processing-and-computer-vision)
-- [Computational Biology](#computational-biology)
-- [Quantum Computing](#quantum-computing)
-- [Robotics](#robotics)
 - [Misc](#misc)
 
 Courses
